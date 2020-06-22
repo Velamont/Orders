@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Orders\Orders.Data\bin\Debug\netcoreapp3.1\Orders.Data.exe
+C:\Users\User\source\repos\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.csproj.CoreCompileInputs.cache
+D:\Work\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.csprojAssemblyReference.cache
+D:\Work\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.csproj.CoreCompileInputs.cache
+D:\Work\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.AssemblyInfoInputs.cache
+D:\Work\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.AssemblyInfo.cs
+D:\Work\Orders\Orders.Data\bin\Debug\netcoreapp3.1\Orders.Data.deps.json
+D:\Work\Orders\Orders.Data\bin\Debug\netcoreapp3.1\Orders.Data.dll
+D:\Work\Orders\Orders.Data\bin\Debug\netcoreapp3.1\Orders.Data.pdb
+D:\Work\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.dll
+D:\Work\Orders\Orders.Data\obj\Debug\netcoreapp3.1\Orders.Data.pdb
